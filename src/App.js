@@ -18,15 +18,17 @@ function App() {
         <div className="col-12 mx-auto px-3 boxContainer">
        <div className="img-1">
        <img className="mb-2 img-1"
-        src="https://www.netclipart.com/pp/m/108-1084788_floral-flowers-flower-art-botanical-flowers-peony-flower.png"
+        src="https://www.pngkit.com/png/full/137-1376664_flower-art-decoupage-flowers-png.png"
         alt="flower"/>
+      
         <img className="mb-2 img-1"
-        src="https://www.netclipart.com/pp/m/108-1084788_floral-flowers-flower-art-botanical-flowers-peony-flower.png" 
+        src="https://i.dlpng.com/static/png/1266549-flowers-photo-png-png-images-flower-png-400_400_preview.png" 
         alt="flower"/>
        </div>
       <div className="my-4 mx-auto px-auto">
       <i className="fas fa-book mx-2 my-auto"></i>
         {Quote.quote}
+      <i className="fas fa-book mx-2 my-auto"></i>
       </div>
       <div className="my-4 mx-2 px-auto author">
          author : {Quote.author}
@@ -35,11 +37,11 @@ function App() {
       className="button"
       onClick={() => newQuote()}>quote</button>
       <div className="img-1">
-       <img className="mb-2 img-1"
-        src="https://www.netclipart.com/pp/m/108-1084788_floral-flowers-flower-art-botanical-flowers-peony-flower.png"
+        <img className="mb-2 img-1"
+        src="https://i.dlpng.com/static/png/1266549-flowers-photo-png-png-images-flower-png-400_400_preview.png"
         alt="flower"/>
         <img className="mb-2 img-1"
-        src="https://www.netclipart.com/pp/m/108-1084788_floral-flowers-flower-art-botanical-flowers-peony-flower.png"
+        src="https://www.pngkit.com/png/full/137-1376664_flower-art-decoupage-flowers-png.png"
         alt="flower"/>
        </div>
     </div>

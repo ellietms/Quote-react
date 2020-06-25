@@ -7,11 +7,13 @@ body{
   background-position-y: 0px;
   margin: 0;
   padding: 0;
+  background-color: rgb(243, 221, 230);
 }
 
 .boxContainer {
   margin-top:16%;
-  border:10px dotted rgb(191, 202, 86);
+  border:7px solid rgb(165, 197, 201);
+  border-radius: 20px;
   padding-bottom: 50px;
   margin-bottom: 2%;
   text-align: center;
@@ -24,7 +26,6 @@ body{
   justify-content: center;
   text-align: center;
   font-weight: bold;
-  color: rgb(208, 107, 221);
 }
 
 .button{
@@ -33,13 +34,13 @@ body{
   width: 100px;
   height: fit-content;
   background: #fff;
-  border: 2px solid rgb(208, 107, 221);
+  border: 2px solid rgb(112, 191, 255);
   border-radius: 75px;
   line-height: 75px;
   text-align:center;
   font-size: 30px;
   text-decoration: none;
-  color: rgb(149, 160, 85);
+  color: rgb(103, 160, 192);
 }
 
 .button:hover{
@@ -51,16 +52,9 @@ body{
   flex-direction: row;
   justify-content:space-between;
   border-radius: 50px;
+  margin-top: 10px;
 }
 
-.img-2{
-  height: 100px;
-  display: flex;
-  flex-direction: row;
-  justify-self: flex-end;
-  border-radius: 50px;
-  margin-left:auto;
-}
 
 i{
   color: rgb(131, 31, 48);
