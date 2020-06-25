@@ -23,6 +23,8 @@ body{
   display: flex;
   justify-content: center;
   text-align: center;
+  font-weight: bold;
+  color: rgb(208, 107, 221);
 }
 
 .button{
