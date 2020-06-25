@@ -18,9 +18,11 @@ function App() {
         <div className="col-12 mx-auto px-3 boxContainer">
        <div className="img-1">
        <img className="mb-2 img-1"
-        src="https://www.netclipart.com/pp/m/108-1084788_floral-flowers-flower-art-botanical-flowers-peony-flower.png"/>
+        src="https://www.netclipart.com/pp/m/108-1084788_floral-flowers-flower-art-botanical-flowers-peony-flower.png"
+        alt="flower"/>
         <img className="mb-2 img-1"
-        src="https://www.netclipart.com/pp/m/108-1084788_floral-flowers-flower-art-botanical-flowers-peony-flower.png" />
+        src="https://www.netclipart.com/pp/m/108-1084788_floral-flowers-flower-art-botanical-flowers-peony-flower.png" 
+        alt="flower"/>
        </div>
       <div className="my-4 mx-auto px-auto">
       <i className="fas fa-book mx-2 my-auto"></i>
@@ -34,9 +36,11 @@ function App() {
       onClick={() => newQuote()}>quote</button>
       <div className="img-1">
        <img className="mb-2 img-1"
-        src="https://www.netclipart.com/pp/m/108-1084788_floral-flowers-flower-art-botanical-flowers-peony-flower.png" />
+        src="https://www.netclipart.com/pp/m/108-1084788_floral-flowers-flower-art-botanical-flowers-peony-flower.png"
+        alt="flower"/>
         <img className="mb-2 img-1"
-        src="https://www.netclipart.com/pp/m/108-1084788_floral-flowers-flower-art-botanical-flowers-peony-flower.png" />
+        src="https://www.netclipart.com/pp/m/108-1084788_floral-flowers-flower-art-botanical-flowers-peony-flower.png"
+        alt="flower"/>
        </div>
     </div>
     </div>
