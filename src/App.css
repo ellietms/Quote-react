@@ -20,6 +20,7 @@ body{
   text-align: center;
   font-size: 22px;
   font-family: 'Pangolin', cursive;
+  color: rgb(38, 133, 101);
 }
 
 .author{
@@ -27,6 +28,7 @@ body{
   justify-content: center;
   text-align: center;
   font-weight: bold;
+  color: rgb(123, 80, 163);
 }
 
 .button{
@@ -35,7 +37,7 @@ body{
   width: 100px;
   height: fit-content;
   background: #fff;
-  border: 2px solid rgb(112, 191, 255);
+  border: 2px solid rgb(158, 106, 165);
   border-radius: 75px;
   line-height: 75px;
   text-align:center;
@@ -58,7 +60,7 @@ body{
 
 
 i{
-  color: rgb(79, 144, 170);
+  color: rgb(170, 79, 125);
 }
 
 @media(max-width:1000px){
