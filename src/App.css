@@ -15,6 +15,7 @@ body{
   border:7px solid rgb(165, 197, 201);
   border-radius: 20px;
   padding-bottom: 50px;
+  padding-top: 30px;
   margin-bottom: 2%;
   text-align: center;
   font-size: 22px;
@@ -57,13 +58,12 @@ body{
 
 
 i{
-  color: rgb(131, 31, 48);
+  color: rgb(79, 144, 170);
 }
 
 @media(max-width:1000px){
   .boxContainer {
     margin-top:22%;
-    border:10px dotted rgb(191, 202, 86);
   }
   img{
     margin-top: 10px;

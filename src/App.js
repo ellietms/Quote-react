@@ -21,7 +21,7 @@ function App() {
         src="https://www.pngkit.com/png/full/137-1376664_flower-art-decoupage-flowers-png.png"
         alt="flower"/>
       
-        <img className="mb-2 img-1"
+        <img className="mb-4 img-1"
         src="https://i.dlpng.com/static/png/1266549-flowers-photo-png-png-images-flower-png-400_400_preview.png" 
         alt="flower"/>
        </div>
@@ -31,7 +31,7 @@ function App() {
       <i className="fas fa-book mx-2 my-auto"></i>
       </div>
       <div className="my-4 mx-2 px-auto author">
-         author : {Quote.author}
+         Author : {Quote.author}
       </div>
       <button
       className="button"
