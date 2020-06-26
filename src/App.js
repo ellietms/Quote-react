@@ -30,6 +30,7 @@ function App() {
         {Quote.quote}
       </div>
       <div className="my-4 mx-2 px-auto author">
+      <i className="fas fa-pen mx-2 my-auto"></i>
          Author : {Quote.author}
       </div>
       <button

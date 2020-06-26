@@ -11,7 +11,7 @@ body {
 
 .boxContainer {
   margin-top: 16%;
-  border: 7px solid rgb(165, 197, 201);
+  border: 7px solid rgb(105, 165, 173);
   border-radius: 20px;
   padding-bottom: 50px;
   padding-top: 30px;
@@ -19,7 +19,8 @@ body {
   text-align: center;
   font-size: 2rem;
   font-family: "Pangolin", cursive;
-  color: rgb(38, 133, 101);
+  color: rgb(42, 71, 6);
+  font-weight: bold;
 }
 
 .author {
@@ -27,7 +28,7 @@ body {
   justify-content: center;
   text-align: center;
   font-weight: bold;
-  color: rgb(123, 80, 163);
+  color: rgb(113, 54, 129);
 }
 
 .button {
@@ -42,7 +43,7 @@ body {
   text-align: center;
   font-size: 30px;
   text-decoration: none;
-  color: rgb(146, 37, 29);
+  color: rgb(99, 7, 105);
 }
 
 .button:hover {
@@ -58,7 +59,7 @@ body {
 }
 
 i {
-  color: rgb(160, 8, 84);
+  color: rgb(158, 133, 24);
 }
 
 @media (max-width: 1000px) {
