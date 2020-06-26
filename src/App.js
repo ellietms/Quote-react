@@ -16,7 +16,7 @@ function App() {
     <div className="container">
       <div className="row">
         <div className="col-12 mx-auto px-3 boxContainer">
-       <div className="img-1 mb-4">
+       <div className="img-1 mb-5">
        <img className="img-1 mb-4"
         src="https://www.pngkit.com/png/full/137-1376664_flower-art-decoupage-flowers-png.png"
         alt="flower"/>

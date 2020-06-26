@@ -36,13 +36,13 @@ body{
   width: 100px;
   height: fit-content;
   background: #fff;
-  border: 2px solid rgb(158, 106, 165);
+  border: 5px solid rgb(218, 179, 8);
   border-radius: 75px;
   line-height: 75px;
   text-align:center;
   font-size: 30px;
   text-decoration: none;
-  color: rgb(103, 160, 192);
+  color: rgb(146, 37, 29);
 }
 
 .button:hover{
