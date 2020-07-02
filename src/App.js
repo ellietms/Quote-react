@@ -22,7 +22,7 @@ function App() {
         alt="flower"/>
       
         <img className="img-1 mb-4"
-        src="https://i.dlpng.com/static/png/1266549-flowers-photo-png-png-images-flower-png-400_400_preview.png" 
+        src="https://www.pngkit.com/png/full/137-1376664_flower-art-decoupage-flowers-png.png" 
         alt="flower"/>
        </div>
       <div className="my-4 mx-auto px-auto">
@@ -38,7 +38,7 @@ function App() {
       onClick={() => newQuote()}>quote</button>
       <div className="img-1">
         <img className="mb-2 img-1"
-        src="https://i.dlpng.com/static/png/1266549-flowers-photo-png-png-images-flower-png-400_400_preview.png"
+        src="https://www.pngkit.com/png/full/137-1376664_flower-art-decoupage-flowers-png.png"
         alt="flower"/>
         <img className="mb-2 img-1"
         src="https://www.pngkit.com/png/full/137-1376664_flower-art-decoupage-flowers-png.png"
