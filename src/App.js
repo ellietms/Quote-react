@@ -7,7 +7,7 @@ function App() {
   const [Quote, setQuote] = useState({});
   useEffect(() => newQuote(), []);
   function newQuote() {
-    fetch("https://ellietms-code-server.glitch.me/quotes/random")
+    fetch("https://cyf-quote-backend.herokuapp.com/quotes/random")
       .then((response) => response.json())
       .then((data) => setQuote(data));
   }
